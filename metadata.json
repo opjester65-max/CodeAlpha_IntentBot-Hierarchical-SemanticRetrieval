@@ -1,0 +1,5 @@
+{
+  "name": "Alpha-Assist Intent Bot",
+  "description": "A robust, hybrid-retrieval chatbot utilizing Gemini for semantic intent classification, hierarchical FAQ retrieval, and dynamic Google Search fallback for out-of-scope queries.",
+  "requestFramePermissions": []
+}
